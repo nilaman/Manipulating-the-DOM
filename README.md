@@ -4,4 +4,4 @@ Nolan Parker
 
 Used 10 elements using javascript to create different affects for the text
 
-Peer Review: 
+Peer Review: Juan Heredia: does what the assignment told us to do, not really sure what else im supposed to say beside it works.
