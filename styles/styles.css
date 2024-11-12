@@ -1,0 +1,37 @@
+body{
+    background-color: navajowhite;
+}
+.news-Style{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkslateblue;
+    font-size: 2rem;
+}
+
+.wiggle-style{
+    color:brown;
+    font-size: 8rem;
+}
+
+.pulse-style{
+    margin-right: 130px;
+    color: aqua;
+}
+
+.zoom{
+    color: green;
+    font-size: 8rem;
+}
+
+.slideUp{
+    color: black;
+    font-size: 3rem;
+}
+
+.heartbeat{
+    color: red;
+    font-size: 5rem;
+    background-color: green;
+}
+.rotation{
+
+}
